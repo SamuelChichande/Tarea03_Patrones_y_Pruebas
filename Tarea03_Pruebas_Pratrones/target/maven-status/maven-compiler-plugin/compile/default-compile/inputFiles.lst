@@ -1,37 +1,37 @@
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionListener.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionSMS.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoVIP.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoPlatea.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorEventos.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\com\espol\tarea03_pruebas_pratrones\Tarea03_Pruebas_Pratrones.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\Funcion.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoMicroTeatro.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoBalcon.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Promocion.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\PoliticaCancelacion.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Evento.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketDecorator.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoStandUp.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorFunciones.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Incidente.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketEstacionamiento.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\AdministradorEvento.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketComponent.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketBebida.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionEmail.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Cliente.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\PlateaAsientoCreator.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\SoporteCliente.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\AdministradorSistema.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\Asiento.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\BalconAsientoCreator.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorIncidentes.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Usuario.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoCreator.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\BasicTicket.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Reservacion.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketSeguro.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorPoliticaCancelacion.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoTeatro.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\VIPAsientoCreator.java
-C:\Users\Schic\OneDrive\Documentos\NetBeansProjects\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionManager.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\PlateaAsientoCreator.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Reservacion.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\AdministradorSistema.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\BalconAsientoCreator.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketEstacionamiento.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionSMS.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\Asiento.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\AdministradorEvento.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\SoporteCliente.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionListener.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\com\espol\tarea03_pruebas_pratrones\Tarea03_Pruebas_Pratrones.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\BasicTicket.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Incidente.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Promocion.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Evento.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\VIPAsientoCreator.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoPlatea.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorPoliticaCancelacion.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoCreator.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoBalcon.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorEventos.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketBebida.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketSeguro.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoStandUp.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\PoliticaCancelacion.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoMicroTeatro.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionManager.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorIncidentes.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Cliente.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketComponent.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Decorator\TicketDecorator.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\Funcion.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\Usuario.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Clases\EventoTeatro.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Factory_Method\AsientoVIP.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Observer\NotificacionEmail.java
+C:\Users\Cesar Moreira\Documents\GitHub\Tarea03_Patrones_y_Pruebas\Tarea03_Pruebas_Pratrones\src\main\java\Patron_Singlenton\GestorFunciones.java

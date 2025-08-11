@@ -1,3 +1,4 @@
 Clases\ClienteTest.class
-Patron_Observer\FuncionTest.class
+Clases\AdministradorSistemaTest.class
 Patron_Decorator\TicketDecoratorTest.class
+Patron_Observer\FuncionTest.class
