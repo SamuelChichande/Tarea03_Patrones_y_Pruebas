@@ -40,7 +40,7 @@ public class AdministradorSistemaTest {
 
     @Test
     @DisplayName("Crear eventos con entradas null")
-    void AS1() {
+    public void AS1() {
         AdministradorSistema admin = new AdministradorSistema("Admin", "a@a.com");
 
         Evento e = admin.crearEvento(null, null);
@@ -50,7 +50,7 @@ public class AdministradorSistemaTest {
 
     @Test
     @DisplayName("Crear eventos con entradas vacias")
-    void AS2() {
+    public void AS2() {
         AdministradorSistema admin = new AdministradorSistema("Admin", "a@a.com");
 
         Evento e = admin.crearEvento("", "");
@@ -60,7 +60,7 @@ public class AdministradorSistemaTest {
 
     @Test
     @DisplayName("Crear un evento valido")
-    void AS3() {
+    public void AS3() {
         AdministradorSistema admin = new AdministradorSistema("Admin", "a@a.com");
 
         Evento e = admin.crearEvento("Título", "Descripcion");
@@ -68,16 +68,26 @@ public class AdministradorSistemaTest {
         assertNotNull(e);
 
         String nomEvent = e.getClass().getSimpleName();
-        assertTrue(nomEvent.equals("EventoTeatro")|| nomEvent.equals("EventoStandUp")|| nomEvent.equals("EventoMicroTeatro"));
+        assertTrue(nomEvent.equals("EventoTeatro") || nomEvent.equals("EventoStandUp") || nomEvent.equals("EventoMicroTeatro"));
     }
 
+    @Test
+    @DisplayName("Crear una promocion con valores validos")
+    public void AS4() {
+        AdministradorSistema admin = new AdministradorSistema("Admin", "a@a.com");
+
+        Promocion p = admin.definirPromocion("Promo 2x1", 0.5f);
+
+        assertNotNull(p);
+        assertEquals("Promo 2x1", p.getDescripcion());
+        assertEquals(0.5f, p.getDescuento());
+    }
     
     
     
     
     
-    
-    
+
     /**
      * Test of crearEvento method, of class AdministradorSistema.
      */
